@@ -12,10 +12,8 @@ body {
     display: grid;
     place-items: center;
     color: #f9ecd9;
+    background-color: #b8b8b8a6;
     font-size: 15px;
-    background: url('./images/pexels.jpg');
-    background-size: cover;
-    background-position: center top;
     font-family: 'Lato', sans-serif;
 }
 
